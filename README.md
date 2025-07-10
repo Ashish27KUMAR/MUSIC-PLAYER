@@ -33,7 +33,6 @@ Here are some screenshots of the application:
 - **Favorites Section**  
   ![Favorites Screenshot](./screenshots/favorites_section.png)
 
-> **Note**: To add these images to your repository, create a `screenshots` folder in the root of your repository and upload your images there.
 
 ---
 
@@ -71,18 +70,3 @@ Here are some screenshots of the application:
   - Firebase Storage for storing songs and song metadata
 
 ---
-
-## **Getting Started**
-
-### **Prerequisites**
-
-Make sure you have the following installed:
-
-- **Node.js** (v16 or higher) - [Download Node.js](https://nodejs.org/)
-- **npm** or **yarn** - Package manager for installing dependencies
-
-### **Setup**
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Ashish27KUMAR/MUSIC-PLAYER.git
