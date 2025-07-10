@@ -22,7 +22,8 @@ This is a fully responsive music player web application built with **React**, **
 Here are some screenshots of the application:
 
 - **Home Page with All Songs Section**  
-  ![Home Page Screenshot](./screenshots/home_page.png)
+  <img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/663b3f65-d7b2-4c64-9d41-cdd787b11b79" />
+
 
 - **Playlist Creation and Song Management**  
   ![Playlist Screenshot](./screenshots/playlist_management.png)
