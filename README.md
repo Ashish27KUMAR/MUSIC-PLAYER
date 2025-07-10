@@ -1,12 +1,73 @@
-# React + Vite
+# **Music Player - Fully Responsive Web App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## **Description**
 
-Currently, two official plugins are available:
+This is a fully responsive music player web application built with **React**, **Vite**, **Tailwind CSS**, **DaisyUI**, and **Firebase**. It provides a complete user experience for creating and managing music playlists, playing songs, and interacting with favorite tracks. The app supports local file uploads and YouTube links to add songs. Users can also manage their profiles, play/pause/skip songs, and adjust the volume.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### **Key Features**:
+- **Account creation & login** via Firebase Authentication
+- **Profile setup** for personalized experience
+- **Playlist creation** and song addition (from local device or YouTube links)
+- **Home page with All Songs** section
+- **Song management**: Play, pause, skip, repeat, and delete songs
+- **Favorite songs management**: Add and remove songs from favorites
+- **Fully responsive design** for desktop and mobile
+- **Volume control** and song interaction (play/pause/skip)
+- **Real-time data syncing** via Firebase
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## **Screenshots**
+
+Here are some screenshots of the application:
+
+- **Home Page with All Songs Section**  
+  ![Home Page Screenshot](./screenshots/home_page.png)
+
+- **Playlist Creation and Song Management**  
+  ![Playlist Screenshot](./screenshots/playlist_management.png)
+
+- **Song Playback Controls**  
+  ![Song Playback Screenshot](./screenshots/song_playback.png)
+
+- **Favorites Section**  
+  ![Favorites Screenshot](./screenshots/favorites_section.png)
+
+> **Note**: To add these images to your repository, create a `screenshots` folder in the root of your repository and upload your images there.
+
+---
+
+## **Tech Stack**
+
+- **React**: JavaScript library for building user interfaces
+- **Vite**: A fast build tool for modern web projects
+- **Tailwind CSS**: Utility-first CSS framework
+- **DaisyUI**: A component library built on top of Tailwind CSS
+- **Firebase**: Backend-as-a-service for authentication, real-time database, and storage
+
+---
+
+## **Features**
+
+- **User Authentication**:
+  - Sign up, login, and logout functionalities
+  - Profile setup and user-specific data stored in Firebase
+  
+- **Playlist Management**:
+  - Create, edit, and delete playlists
+  - Add songs to playlists from the local device or YouTube links
+  - Delete songs from the playlist, including removal from Firebase
+  
+- **Song Playback**:
+  - Play, pause, skip, repeat songs
+  - Adjust volume using a volume slider
+
+- **Favorites**:
+  - Add and remove songs to/from the favorites section
+  
+- **Firebase Integration**:
+  - Firebase Authentication for managing users
+  - Firebase Realtime Database for storing playlists, songs, and user data
+  - Firebase Storage for storing songs and song metadata
+
+---
