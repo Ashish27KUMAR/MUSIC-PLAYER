@@ -24,16 +24,17 @@ Here are some screenshots of the application:
 - **Home Page with All Songs Section**  
   <img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/663b3f65-d7b2-4c64-9d41-cdd787b11b79" />
 
-
 - **Playlist Creation and Song Management**  
-  ![Playlist Screenshot](./screenshots/playlist_management.png)
+  <img width="1919" height="926" alt="Screenshot 2025-07-10 222953" src="https://github.com/user-attachments/assets/9b17f137-5920-4d5b-9b6d-4a41904ae224" />
 
-- **Song Playback Controls**  
-  ![Song Playback Screenshot](./screenshots/song_playback.png)
+- **Playlist's Songs**  
+  <img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/f7d10b9a-4d93-49a2-a66b-5e39e23be2c0" />
 
 - **Favorites Section**  
-  ![Favorites Screenshot](./screenshots/favorites_section.png)
+  <img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/4b364ce8-7d56-4a31-a306-2c87ac65b2d2" />
 
+- **Profile Section** 
+  <img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/12c28f0b-b705-496e-a4e4-39b7fe121d93" />
 
 ---
 
